@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+logo: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flogo&psig=AOvVaw3r13oy-SHYcFusATl_nBll&ust=1718792987367000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPiHn_345IYDFQAAAAAdAAAAABAE
